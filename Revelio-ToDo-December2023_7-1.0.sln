@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revelio-ToDo-December2023_7-1.0", "Revelio-ToDo-December2023_7-1.0\Revelio-ToDo-December2023_7-1.0.csproj", "{C142C338-BDB6-46DB-9ECC-54FD228FE7E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C142C338-BDB6-46DB-9ECC-54FD228FE7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C142C338-BDB6-46DB-9ECC-54FD228FE7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C142C338-BDB6-46DB-9ECC-54FD228FE7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C142C338-BDB6-46DB-9ECC-54FD228FE7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038781C7-FC02-45E0-994D-F3B4CB53394B}
+	EndGlobalSection
+EndGlobal
